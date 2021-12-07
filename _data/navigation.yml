@@ -13,9 +13,9 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       News
+      en      : &EN       Post
       # @end locale config
-    url: /news.html
+    url: /post.html
 
   - titles:
       # @start locale config

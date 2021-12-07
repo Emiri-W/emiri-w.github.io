@@ -1,0 +1,73 @@
+I"�2<h2 id="ライブラリ関係">ライブラリ関係</h2>
+<h3 id="自作の関数を使いたいとき">自作の関数を使いたいとき</h3>
+
+<p>自作の関数が格納されているディレクトリのpathを通す必要がある。</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">sys</span>
+<span class="n">sys</span><span class="p">.</span><span class="n">path</span><span class="p">.</span><span class="n">append</span><span class="p">(</span><span class="s">"path_directory"</span><span class="p">)</span>
+<span class="kn">import</span> <span class="nn">my_module</span>
+</code></pre></div></div>
+
+<h2 id="ディレクトリ操作">ディレクトリ操作</h2>
+<h3 id="current-directoryの確認">current directoryの確認</h3>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">os</span><span class="p">.</span><span class="n">getcwd</span><span class="p">()</span>
+</code></pre></div></div>
+<h3 id="ディレクトリの移動">ディレクトリの移動</h3>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">os</span><span class="p">.</span><span class="n">chdir</span><span class="p">(</span><span class="n">dir_path</span><span class="p">)</span>
+</code></pre></div></div>
+<h3 id="現在のディレクトリ内のすべてのtifファイルの名前を取得">現在のディレクトリ内のすべてのtifファイルの名前を取得</h3>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">list_tif</span> <span class="o">=</span> <span class="n">glob</span><span class="p">.</span><span class="n">glob</span><span class="p">(</span><span class="n">os</span><span class="p">.</span><span class="n">path</span><span class="p">.</span><span class="n">join</span><span class="p">(</span><span class="sa">r</span><span class="s">"*.tif"</span><span class="p">))</span>
+</code></pre></div></div>
+<h3 id="目的のファイルがあるか確認">目的のファイルがあるか確認</h3>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">os</span><span class="p">.</span><span class="n">path</span><span class="p">.</span><span class="n">exists</span><span class="p">(</span><span class="s">'file_name'</span><span class="p">)</span>
+</code></pre></div></div>
+
+<h2 id="matplotlib">matplotlib</h2>
+
+<h3 id="作図用のパラメータを一括で変更する">作図用のパラメータを一括で変更する</h3>
+<p><a href="https://matplotlib.org/stable/tutorials/introductory/customizing.html">https://matplotlib.org/stable/tutorials/introductory/customizing.html</a></p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">'font.size'</span><span class="p">]</span> <span class="o">=</span> <span class="mi">16</span>                  <span class="c1">#フォントサイズ
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">'font.sans-serif'</span><span class="p">]</span> <span class="o">=</span> <span class="s">'Helvetica'</span>   <span class="c1">#フォント
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">'mathtext.fontset'</span><span class="p">]</span> <span class="o">=</span> <span class="s">'cm'</span>         <span class="c1"># math fontの設定
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">'xtick.direction'</span><span class="p">]</span> <span class="o">=</span> <span class="s">'in'</span>          <span class="c1">#x軸のメモリの向き
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">'ytick.direction'</span><span class="p">]</span> <span class="o">=</span> <span class="s">'in'</span>          <span class="c1">#y軸のメモリの向き
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">'xtick.major.width'</span><span class="p">]</span> <span class="o">=</span> <span class="mf">2.4</span>         <span class="c1">#x軸の太さ
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">'ytick.major.width'</span><span class="p">]</span> <span class="o">=</span> <span class="mf">2.4</span>         <span class="c1">#y軸の太さ
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">'axes.linewidth'</span><span class="p">]</span> <span class="o">=</span> <span class="mf">2.4</span>            <span class="c1">#囲みの太さ
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">'axes.grid'</span><span class="p">]</span><span class="o">=</span><span class="bp">True</span>                  <span class="c1">#gridをつけるか
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">'grid.linestyle'</span><span class="p">]</span><span class="o">=</span><span class="s">'--'</span>             <span class="c1">#gridの線の種類
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">'grid.linewidth'</span><span class="p">]</span> <span class="o">=</span> <span class="mf">1.6</span>            <span class="c1">#gridの太さ
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">"legend.markerscale"</span><span class="p">]</span> <span class="o">=</span> <span class="mi">2</span>          <span class="c1">#legendの点の大きさ
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">"legend.fancybox"</span><span class="p">]</span> <span class="o">=</span> <span class="bp">False</span>         <span class="c1">#legendの角を丸めるかどうか
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">"legend.framealpha"</span><span class="p">]</span> <span class="o">=</span> <span class="mi">1</span>           <span class="c1">#legend背景の透過率
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">"legend.edgecolor"</span><span class="p">]</span> <span class="o">=</span> <span class="s">'black'</span>      <span class="c1">#legendの囲み線の色
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">"xtick.major.size"</span><span class="p">]</span> <span class="o">=</span> <span class="mi">3</span>            <span class="c1">#x軸主目盛り線の長さ
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">"ytick.major.size"</span><span class="p">]</span> <span class="o">=</span> <span class="mi">3</span>            <span class="c1">#y軸主目盛り線の長さ
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">'figure.dpi'</span><span class="p">]</span> <span class="o">=</span> <span class="mi">60</span>                 <span class="c1">#図の解像度
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">"xtick.major.pad"</span><span class="p">]</span> <span class="o">=</span> <span class="mi">2</span>             <span class="c1">#x軸の数字とグラフ間の間隔
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">"ytick.major.pad"</span><span class="p">]</span> <span class="o">=</span> <span class="mi">2</span>             <span class="c1">#y軸の数字とグラフ間の間隔
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">"axes.labelpad"</span><span class="p">]</span> <span class="o">=</span> <span class="mi">1</span>               <span class="c1">#ラベルと軸の間の間隔 (defaultは4.0)
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">"xtick.labelsize"</span><span class="p">]</span> <span class="o">=</span> <span class="mi">12</span>            <span class="c1">#x軸のラベルのフォントサイズ
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">"ytick.labelsize"</span><span class="p">]</span> <span class="o">=</span> <span class="mi">12</span>            <span class="c1">#y軸のラベルのフォントサイズ
+</span></code></pre></div></div>
+
+<h3 id="複数の図を表示">複数の図を表示</h3>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">h</span><span class="p">,</span> <span class="n">w</span> <span class="o">=</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span> <span class="c1">#高さ方向に何個並べるか、横方向に何個並べるか
+</span><span class="n">fix</span><span class="p">,</span> <span class="n">axes</span> <span class="o">=</span> <span class="n">plt</span><span class="p">.</span><span class="n">subplots</span><span class="p">(</span><span class="n">h</span><span class="p">,</span> <span class="n">w</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">20</span><span class="p">,</span> <span class="mi">15</span><span class="p">))</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">subplots_adjust</span><span class="p">(</span><span class="n">wspace</span><span class="o">=</span><span class="mf">0.2</span><span class="p">,</span> <span class="n">hspace</span><span class="o">=</span><span class="mf">0.3</span><span class="p">)</span>
+<span class="k">for</span> <span class="n">i</span><span class="p">,</span> <span class="n">ax</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">axes</span><span class="p">.</span><span class="n">ravel</span><span class="p">()):</span>
+    <span class="n">ax</span><span class="p">.</span><span class="n">plot</span><span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="n">i</span><span class="p">])</span>
+</code></pre></div></div>
+<h3 id="legendの表示場所の指定">legendの表示場所の指定</h3>
+<p>legendを指定する時のオプションでlegend自体の表示場所も指定できる。下の例はレジェンドを図の外の右上に表示している。</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">ax</span><span class="p">.</span><span class="n">legend</span><span class="p">([</span><span class="s">"result1"</span><span class="p">,</span> <span class="s">"result2"</span><span class="p">],</span> <span class="n">frameon</span><span class="o">=</span><span class="bp">False</span><span class="p">,</span> <span class="n">bbox_to_anchor</span><span class="o">=</span><span class="p">(</span><span class="mf">1.05</span><span class="p">,</span> <span class="mi">1</span><span class="p">),</span> <span class="n">loc</span><span class="o">=</span><span class="s">'upper left'</span><span class="p">)</span>
+</code></pre></div></div>
+<h3 id="図の保存">図の保存</h3>
+<p>背景を透明にしたいときは、下のようにオプション<code class="language-plaintext highlighter-rouge">transparent=True</code>をつければよい。</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">plt</span><span class="p">.</span><span class="n">savefig</span><span class="p">(</span><span class="s">"figure.svg"</span><span class="p">,</span> <span class="n">bbox_inches</span><span class="o">=</span><span class="s">'tight'</span><span class="p">,</span> <span class="n">transparent</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
+</code></pre></div></div>
+
+<h2 id="scipy">scipy</h2>
+
+<!--more-->
+:ET

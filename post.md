@@ -1,5 +1,5 @@
 ---
 layout: news
-titles: News
+titles: Post
 show_title: false
 ---
