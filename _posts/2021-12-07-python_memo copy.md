@@ -63,6 +63,7 @@ plt.rcParams['figure.dpi'] = 60                 #図の解像度
 plt.rcParams["xtick.major.pad"] = 2             #x軸の数字とグラフ間の間隔
 plt.rcParams["ytick.major.pad"] = 2             #y軸の数字とグラフ間の間隔
 plt.rcParams["axes.labelpad"] = 1               #ラベルと軸の間の間隔 (defaultは4.0)
+plt.style.use('seaborn-colorblind')             #デフォルトの色の指定
 ```
 
 ### 複数の図を表示
@@ -72,6 +73,10 @@ fix, axes = plt.subplots(h, w, figsize=(20, 15))
 plt.subplots_adjust(wspace=0.2, hspace=0.3)
 for i, ax in enumerate(axes.ravel()):
     ax.plot(data[i])
+```
+#### subplotの数より図示したい図が少なくて、軸を描画したくない時
+```python
+ax.axis('off')
 ```
 ### legendの表示場所の指定
 legendを指定する時のオプションでlegend自体の表示場所も指定できる。下の例はレジェンドを図の外の右上に表示している。
