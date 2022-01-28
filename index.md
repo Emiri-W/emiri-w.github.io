@@ -3,11 +3,13 @@ layout: article
 title: Home
 show_title: false
 ---
-ご訪問ありがとうございます。こちらは渡邊絵美理の個人のウェブサイトです。
+ご訪問ありがとうございます。こちらは渡邊絵美理の個人のウェブサイトです。  
+
+English page is [here](https://emiri-w.github.io/en)
 
 
 ### お知らせ
-- 2021/12/5 個人のウェブサイトを開設しました！
+- 2022/1/27 個人のウェブサイトを開設しました！
 
 
 
