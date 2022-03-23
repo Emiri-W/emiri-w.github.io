@@ -11,11 +11,11 @@ header:
       # @end locale config
     url: /cv.html
 
-  - titles:
-      # @start locale config
-      en      : &EN       News
-      # @end locale config
-    url: /news.html
+  # - titles:
+  #     # @start locale config
+  #     en      : &EN       News
+  #     # @end locale config
+  #   url: /news.html
 
   - titles:
       # @start locale config
