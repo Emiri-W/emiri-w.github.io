@@ -9,6 +9,7 @@ English page is [here](https://emiri-w.github.io/en)
 
 
 ### お知らせ
+- 2022/5/13 *bioRxiv*に論文"No circadian clock-gene circuit in the generation of cellular bioluminescence rhythm of *CaMV35S::PtRLUC* in duckweed"の原稿を投稿しました。[リンク](https://www.biorxiv.org/content/10.1101/2022.05.12.491730v1)
 - 2022/3/15に日本物理学会第77会年次大会で口頭発表をします。タイトルは「振動子集団の集団秩序度時系列データを用いたパラメタ推定」です。
 - 2022/1/27 個人のウェブサイトを開設しました！
 
