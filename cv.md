@@ -19,7 +19,7 @@ ORCID: [0000-0002-8014-1115](https://orcid.org/0000-0002-8014-1115)
 ### プレプリント
 1. **Emiri Watanabe**, Tomoaki Muranaka, Shunji Nakamura, Minako Isoda, Shogo Ito, and Tokitaka Oyama  
    "No circadian clock-gene circuit in the generation of cellular bioluminescence rhythm of *CaMV35S::PtRLUC* in duckweed"  
-   *bioRxiv*, doi: [https://doi.org/10.1101/2022.05.12.491730](https://www.biorxiv.org/content/10.1101/2022.05.12.491730v1)  
+   *bioRxiv*, doi: [https://doi.org/10.1101/2022.05.12.491730](https://doi.org/10.1101/2022.05.12.491730)  
    
 ### 学術論文（査読あり）
    
