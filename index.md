@@ -9,7 +9,8 @@ English page is [here](https://emiri-w.github.io/en)
 
 
 ### お知らせ
-(2022/11/4 updated)
+(2022/1２/4 updated)
+- 2022/12/2 第45回 日本分子生物学会にて、MBSJ2022 Science Pitch Awardを受賞しました！
 - 2022/12/15-16 [定量生物学の会　第十回年会](https://q-bio.jp/index.php?title=Qbio10th_2022)（広島大学）に参加します。
 - 2022/12/5 渡邊が世話人をつとめております「[生物リズム若手研究者の集い2022](https://sites.google.com/view/rhythmwakate2022/home)」が開催されます。
 - 2022/12/3-4に開催される [第29回日本時間生物学会学術大会](http://chronobiology.meiji-lifesci.jp/)（宇都宮大学）のシンポジウム「Oscillating Greens：光合成生物の概日リズム研究の今日的展開」で「植物における同一細胞内の時計と異なる挙動を示す概日リズムの細胞非自律性」というタイトルで発表します。同一タイトルでポスターも出します(ポスター番号：P022)。
