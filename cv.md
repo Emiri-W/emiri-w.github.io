@@ -16,12 +16,13 @@ ORCID: [0000-0002-8014-1115](https://orcid.org/0000-0002-8014-1115)
 - 2019年4月-2021年3月  &nbsp; 京都大学 理学研究科 生物科学専攻 修士課程
 - 2021年4月-現在&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 東京大学 新領域創成科学研究科 複雑理工学専攻 博士後期課程
 
-### プレプリント
-1. **Emiri Watanabe**, Tomoaki Muranaka, Shunji Nakamura, Minako Isoda, Shogo Ito, and Tokitaka Oyama  
-   "No circadian clock-gene circuit in the generation of cellular bioluminescence rhythm of *CaMV35S::PtRLUC* in duckweed"  
-   *bioRxiv*, doi: [https://doi.org/10.1101/2022.05.12.491730](https://doi.org/10.1101/2022.05.12.491730)  
-   
+
 ### 学術論文（査読あり）
+   
+1. **Emiri Watanabe**, Tomoaki Muranaka, Shunji Nakamura, Minako Isoda, Yu Horikawa, Tsuyoshi Aiso, Shogo Ito, and Tokitaka Oyama  
+   "A non-cell-autonomous circadian rhythm of bioluminescence reporter activities in individual cells in duckweed"  
+   *Plant Physiology*, in press, [プレプリント版](https://doi.org/10.1101/2022.05.12.491730)  
+   
    
 1. **Emiri Watanabe**, Minako Isoda, Tomoaki Muranaka, Shogo Ito, and Tokitaka Oyama  
   "Detection of uncoupled circadian rhythms in individual cells of *Lemna minor* using a dual-color bioluminescence monitoring system"  
