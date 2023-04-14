@@ -9,8 +9,9 @@ English page is [here](https://emiri-w.github.io/en)
 
 
 ### お知らせ
-(2023/3/25 updated)
-- 2023/3/20 論文がアクセプトされました！
+(2023/4/14 updated)
+- 2023/4/14 [twitterのアカウント](https://twitter.com/EmiriWatanabe)をつくりました。
+- 2023/3/20 論文がアクセプトされました！[リンク](https://doi.org/10.1093/plphys/kiad218)
 - 2022/12/2 第45回 日本分子生物学会にて、MBSJ2022 Science Pitch Awardを受賞しました！
 - 2022/12/15-16 [定量生物学の会　第十回年会](https://q-bio.jp/index.php?title=Qbio10th_2022)（広島大学）に参加します。
 - 2022/12/5 渡邊が世話人をつとめております「[生物リズム若手研究者の集い2022](https://sites.google.com/view/rhythmwakate2022/home)」が開催されます。

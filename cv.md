@@ -7,7 +7,7 @@ show_title: false
 
 渡邊絵美理 (Emiri Watanabe)  
 東京大学 新領域創成科学研究科 複雑理工学専攻 非線形物理学研究室  
-博士後期課程 2年  
+博士後期課程 3年  
 ORCID: [0000-0002-8014-1115](https://orcid.org/0000-0002-8014-1115)  
 
 
@@ -21,7 +21,7 @@ ORCID: [0000-0002-8014-1115](https://orcid.org/0000-0002-8014-1115)
    
 1. **Emiri Watanabe**, Tomoaki Muranaka, Shunji Nakamura, Minako Isoda, Yu Horikawa, Tsuyoshi Aiso, Shogo Ito, and Tokitaka Oyama  
    "A non-cell-autonomous circadian rhythm of bioluminescence reporter activities in individual cells in duckweed"  
-   *Plant Physiology*, in press, [プレプリント版](https://doi.org/10.1101/2022.05.12.491730)  
+   *Plant Physiology*, in press, [https://doi.org/10.1093/plphys/kiad218](https://doi.org/10.1093/plphys/kiad218)  
    
    
 1. **Emiri Watanabe**, Minako Isoda, Tomoaki Muranaka, Shogo Ito, and Tokitaka Oyama  

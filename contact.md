@@ -12,5 +12,6 @@ Mail: watanabe-emiri[-at-]g.ecc.u-tokyo.ac.jp
 ***
 
 #### リンク
+[twitter](https://twitter.com/EmiriWatanabe)  
 [東京大学 非線形物理学研究室](http://www.hk.k.u-tokyo.ac.jp/)  
 [京都大学 形態統御学分科 時間生物学グループ](http://cosmos.bot.kyoto-u.ac.jp/clock/)
