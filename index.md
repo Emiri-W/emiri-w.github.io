@@ -9,7 +9,8 @@ English page is [here](https://emiri-w.github.io/en)
 
 
 ### お知らせ
-(2023/4/14 updated)
+(2023/5/25 updated)
+- 2023/5-8月にスペイン、バルセロナにある[Prof. Jordi Garcia-Ojalvoの研究室](https://www.upf.edu/web/dsb)に滞在させていただきます。
 - 2023/4/14 [twitterのアカウント](https://twitter.com/EmiriWatanabe)をつくりました。
 - 2023/3/20 論文がアクセプトされました！[リンク](https://doi.org/10.1093/plphys/kiad218)
 - 2022/12/2 第45回 日本分子生物学会にて、MBSJ2022 Science Pitch Awardを受賞しました！
