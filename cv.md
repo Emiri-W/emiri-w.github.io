@@ -21,10 +21,10 @@ ORCID: [0000-0002-8014-1115](https://orcid.org/0000-0002-8014-1115)
    
 1. **Emiri Watanabe**, Tomoaki Muranaka, Shunji Nakamura, Minako Isoda, Yu Horikawa, Tsuyoshi Aiso, Shogo Ito, and Tokitaka Oyama  
    "A non-cell-autonomous circadian rhythm of bioluminescence reporter activities in individual cells in duckweed"  
-   *Plant Physiology*, in press, [https://doi.org/10.1093/plphys/kiad218](https://doi.org/10.1093/plphys/kiad218)  
+   *Plant Physiology*, Volume 193, Issue 1, September 2023, [https://doi.org/10.1093/plphys/kiad218](https://doi.org/10.1093/plphys/kiad218)  
    
    
-1. **Emiri Watanabe**, Minako Isoda, Tomoaki Muranaka, Shogo Ito, and Tokitaka Oyama  
+2. **Emiri Watanabe**, Minako Isoda, Tomoaki Muranaka, Shogo Ito, and Tokitaka Oyama  
   "Detection of uncoupled circadian rhythms in individual cells of *Lemna minor* using a dual-color bioluminescence monitoring system"  
   *Plant and Cell Physiology*, Volume 62, Issue 5, May 2021, Pages 815–826, [https://doi.org/10.1093/pcp/pcab037](https://doi.org/10.1093/pcp/pcab037)
 
