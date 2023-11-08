@@ -11,7 +11,7 @@ English page is [here](https://emiri-w.github.io/en)
 ### お知らせ
 (2023/11/1 updated)
 - 2023/11/26-27 [生物リズム若手研究者の集い2023](https://sites.google.com/view/rhythmwakate2023/home)が開催されます。久しぶりの宿泊ありです。世話人一同準備がんばります。
-- 2023/11/15 [第61回日本物理学会年会](https://www2.aeplan.co.jp/bsj2023/index.html)のシンポジウム「多様なリズム現象から探る概日時計研究の行方」で発表します。
+- 2023/11/15 [第61回日本生物物理学会年会](https://www2.aeplan.co.jp/bsj2023/index.html)のシンポジウム「多様なリズム現象から探る概日時計研究の行方」で発表します。
 - 2023/5-8月にスペイン、バルセロナにある[Prof. Jordi Garcia-Ojalvoの研究室](https://www.upf.edu/web/dsb)に滞在しました。
 - 2023/4/14 [twitterのアカウント](https://twitter.com/EmiriWatanabe)をつくりました。
 - 2023/3/20 論文がアクセプトされました！[リンク](https://doi.org/10.1093/plphys/kiad218)
