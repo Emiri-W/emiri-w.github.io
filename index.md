@@ -9,7 +9,9 @@ English page is [here](https://emiri-w.github.io/en)
 
 
 ### お知らせ
-(2023/11/1 updated)
+(2024/12/12 updated)
+- 2024/10/10-11 [研究会「理論と実験」2024](https://sites.google.com/view/theories-and-experiments2024/)に参加しました。
+- 2024/4/1 東京大学理学系研究科生物科学専攻　黒田研究室に特任助教として参加しました。
 - 2023/11/26-27 [生物リズム若手研究者の集い2023](https://sites.google.com/view/rhythmwakate2023/home)が開催されます。久しぶりの宿泊ありです。世話人一同準備がんばります。
 - 2023/11/15 [第61回日本生物物理学会年会](https://www2.aeplan.co.jp/bsj2023/index.html)のシンポジウム「多様なリズム現象から探る概日時計研究の行方」で発表します。
 - 2023/5-8月にスペイン、バルセロナにある[Prof. Jordi Garcia-Ojalvoの研究室](https://www.upf.edu/web/dsb)に滞在しました。

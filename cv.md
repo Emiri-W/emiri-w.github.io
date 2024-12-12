@@ -4,18 +4,25 @@ titles: CV
 show_title: false
 ---
 
+[PDF version (English)](my-cv.pdf)
+
+---
 
 渡邊絵美理 (Emiri Watanabe)  
-東京大学 新領域創成科学研究科 複雑理工学専攻 非線形物理学研究室  
-博士後期課程 3年  
-ORCID: [0000-0002-8014-1115](https://orcid.org/0000-0002-8014-1115)  
+東京大学 理学系研究科 生物科学専攻 黒田研究室  
+特任助教  
+[ORCID](https://orcid.org/0000-0002-8014-1115)  
+[researchmap](https://researchmap.jp/emiriwatanabe)
+[twitter](https://twitter.com/EmiriWatanabe)
 
 
 ### 学歴
 - 2015年4月-2019年3月  &nbsp; 京都大学 理学部
 - 2019年4月-2021年3月  &nbsp; 京都大学 理学研究科 生物科学専攻 修士課程
-- 2021年4月-現在&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 東京大学 新領域創成科学研究科 複雑理工学専攻 博士後期課程
+- 2021年4月-2024年3月  &nbsp; 東京大学 新領域創成科学研究科 複雑理工学専攻 博士後期課程
 
+### 職歴
+- 2024年4月-現在 &nbsp; &nbsp; &nbsp; 東京大学 理学系研究科 生物科学専攻 黒田研究室 特任助教
 
 ### 学術論文（査読あり）
    
@@ -27,6 +34,12 @@ ORCID: [0000-0002-8014-1115](https://orcid.org/0000-0002-8014-1115)
 2. **Emiri Watanabe**, Minako Isoda, Tomoaki Muranaka, Shogo Ito, and Tokitaka Oyama  
   "Detection of uncoupled circadian rhythms in individual cells of *Lemna minor* using a dual-color bioluminescence monitoring system"  
   *Plant and Cell Physiology*, Volume 62, Issue 5, May 2021, Pages 815–826, [https://doi.org/10.1093/pcp/pcab037](https://doi.org/10.1093/pcp/pcab037)
+  
+### プレプリント
+
+1. Yu Horikawa, **Emiri Watanabe**, Shogo Ito, and Tokitaka Oyama  
+  "Model-based analysis of the circadian rhythm generation of bioluminescence reporter activity in duckweed"  
+  bioRxiv, 2024, [https://doi.org/10.1101/2024.05.26.595939](https://doi.org/10.1101/2024.05.26.595939)
 
 ### 学会発表
 #### 国際学会
@@ -92,4 +105,4 @@ ORCID: [0000-0002-8014-1115](https://orcid.org/0000-0002-8014-1115)
 - 京都大学理学研究科 MACS 教育プログラムに参加 (2017-2021年)
 - 沖縄科学技術大学院大学(OIST) 情報処理生物学ユニット RA (2017年8-9月) 
 - 東京大学理学研究科生物科学専攻　院生会幹事（2022年度）
-- 生物リズム若手研究者の集い2022　世話人
+- 生物リズム若手研究者の集い2022, 2023　世話人
