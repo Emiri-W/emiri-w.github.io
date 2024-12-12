@@ -12,8 +12,8 @@ show_title: false
 東京大学 理学系研究科 生物科学専攻 黒田研究室  
 特任助教  
 [ORCID](https://orcid.org/0000-0002-8014-1115)  
-[researchmap](https://researchmap.jp/emiriwatanabe)
-[twitter](https://twitter.com/EmiriWatanabe)
+[researchmap](https://researchmap.jp/emiriwatanabe)  
+[twitter](https://twitter.com/EmiriWatanabe)  
 
 
 ### 学歴
